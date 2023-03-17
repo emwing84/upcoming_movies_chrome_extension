@@ -4,7 +4,7 @@ async function fetchData(number) {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': 'c33f60ca08msh9608933228f9909p1372d1jsna02f2bc6559d',
+            'X-RapidAPI-Key': '[INSERT API KEY]',
             'X-RapidAPI-Host': 'moviesdatabase.p.rapidapi.com'
         }
     };
